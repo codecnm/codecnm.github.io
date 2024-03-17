@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/hope/", // 默认为 '/' 现在修改为 '/hope/'以适应GitHub Paes页面访问路径
+  base: "/", // 默认为 '/' 现在修改为 '/hope/'以适应GitHub Paes页面访问路径
 
   head: [
     [
